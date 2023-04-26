@@ -44,10 +44,10 @@ Venda média mensal |   Preço atual          | % de aumento | % de diminuição
  :-------: | :----------:
  19        | Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir verifique e mostre qual a classificação dessa pessoa.
  Altura            |  Até 60  | Entre 60 e 90 (inclusive) |  acima de 90
-:----------------: | :------------:         | :----------: | :------------:
- Menores que 1,20            | A            |      D     |     G    
- De 1,20 a 1,70  | B |      E     |      H
- ㅤMaiores que 1,70      | C             |      F       |      I
+:----------------: | :------: | :-----------------------: | :-------------:
+ Menores que 1,20   | A       |      D                    |     G    
+ De 1,20 a 1,70    |    B     |      E                    |      H
+ ㅤMaiores que 1,70  |   C    |      F                    |      I
  
  
  
