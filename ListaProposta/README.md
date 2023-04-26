@@ -29,3 +29,8 @@ Preço Atual     |  % de Desconto
 Até R$30,00     |  Sem desconto
 Entre R$30,00 e R$100,000      | 10
 Acima de R$100,00     | 15
+
+
+Pergunta  |  Enunciado
+:-------: | :------------:
+17        | Faça um programa que verifique a validade de uma senha fornecida pelo usuário. A senha é 4531. O programa deve mostrar uma mensagem de permissão de acesso ou não.
