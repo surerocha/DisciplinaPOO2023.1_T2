@@ -69,10 +69,12 @@ Venda média mensal |   Preço atual          | % de aumento | % de diminuição
  
  O valor do imposto, de acordo com a regra a seguir.
  
+ 
  Preço  |  Percentual sobre o preço   |
  :---: | :--------------------------: |
  <R$25,00  |  5%                      |
  >=R$25,00  | 8%                      |
+ 
  
  O preço de custo, ou seja, preço mais imposto.
  O desconto, de acordo com a regra a seguir.
@@ -83,6 +85,7 @@ Venda média mensal |   Preço atual          | % de aumento | % de diminuição
  
  O novo preço, ou seja, preço mais adicional menos desconto.
  a classificação, de acordo com a regra a seguir.
+ 
  
  Novo preço                |   Classificação   |
  :------------------:      | :---------------: |
