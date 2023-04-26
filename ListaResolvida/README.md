@@ -44,12 +44,12 @@ Venda média mensal |   Preço atual          | % de aumento | % de diminuição
  :-------: | :----------:
  19        | Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir verifique e mostre qual a classificação dessa pessoa.
  
- Altura  | Peso
- :-----: | :---------------:
-   -     | Até 60 | Entre 60 e 90 (inclusive) | Acima de 90
- Menores que 1,20 | A | D | G 
- De 1,20 a 1,70 | B | E | H
- Maiores que 1,70 | C | F | I
+ Altura           | Peso
+ :-------------:  | :-------------------------------------------------:
+   -              | Até 60 | Entre 60 e 90 (inclusive) | Acima de 90
+ Menores que 1,20 |    A   |            D              | G 
+ De 1,20 a 1,70   |    B   |            E              | H
+ Maiores que 1,70 |    C   |            F              | I
  
  
  
@@ -83,10 +83,10 @@ Venda média mensal |   Preço atual          | % de aumento | % de diminuição
  O novo preço, ou seja, preço mais adicional menos desconto.
  a classificação, de acordo com a regra a seguir.
  
- Novo preço   |   Classificação
- :-------:    | :---------------:
- <=R$50,00   | Barato
+ Novo preço                |   Classificação
+ :------------------:      | :---------------:
+ <=R$50,00                 | Barato
  Entre R$50,00 e R$100,00  | Normal
- >=R$100,00   | Caro
+ >=R$100,00                | Caro
  
  
