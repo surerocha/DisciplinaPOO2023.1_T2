@@ -34,3 +34,29 @@ Acima de R$100,00     | 15
 Pergunta  |  Enunciado
 :-------: | :------------:
 17        | Faça um programa que verifique a validade de uma senha fornecida pelo usuário. A senha é 4531. O programa deve mostrar uma mensagem de permissão de acesso ou não.
+
+
+Pergunta  |  Enunciado
+:-------: | :------------:
+24        | Faça um programa que receba o preço, a categoria (1-Limpeza, 2-alimentaçãp ou 3-vestuário) e a situação (R-produtos que necessitam de refrigeração e N-produtos que não necessitam de refrigeração). Calcule e mostre: o valor do aumento, usando as regras a seguir sobre o preço.
+
+
+Preço   |  Categoria     | Percentual de Aumento 
+:-----: | :-----------:  | :-----------------------:
+<=R$25,00      |  1, 2 e 3      |  5%, 8% e 10%
+>R$25,00      |  1, 2 e 3  |  12%, 15% e 18%
+
+Valor do imposto, usando as seguintes regras.
+O produto que preencher pelo menos um dos seguintes requesitos pagará imposto equivalente a 5% do preço, caso contrário pagará 8% do preço. Os requesitos são: 
+Categoria: 2
+Situação: R
+
+O novo preço, ou seja, o preço mais aumento menos imposto.
+A classificação, de acordo com as regras a seguir.
+
+
+Novo Preço     |   Classificação
+:------------: | :----------------:
+<=R$50,00     |  Barato
+Entre R$50,00 e R$120,000  | Normal
+>=R$120,00     | Caro
