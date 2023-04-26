@@ -43,8 +43,8 @@ Pergunta  |  Enunciado
 
 Preço   |  Categoria     | Percentual de Aumento 
 :-----: | :-----------:  | :-----------------------:
-<=R$25,00      |  1, 2 e 3      |  5%, 8% e 10%
->R$25,00      |  1, 2 e 3  |  12%, 15% e 18%
+Menor ou igual a R$25,00      |  1, 2 e 3      |  5%, 8% e 10%
+Maior que R$25,00      |  1, 2 e 3  |  12%, 15% e 18%
 
 Valor do imposto, usando as seguintes regras.
 O produto que preencher pelo menos um dos seguintes requesitos pagará imposto equivalente a 5% do preço, caso contrário pagará 8% do preço. Os requesitos são: 
@@ -57,6 +57,6 @@ A classificação, de acordo com as regras a seguir.
 
 Novo Preço     |   Classificação
 :------------: | :----------------:
-<=R$50,00     |  Barato
+Menor ou igual a R$50,00     |  Barato
 Entre R$50,00 e R$120,000  | Normal
->=R$120,00     | Caro
+Maior ou igual a R$120,00     | Caro
