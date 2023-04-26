@@ -73,7 +73,7 @@ Venda média mensal |   Preço atual          | % de aumento | % de diminuição
  Preço  |  Percentual sobre o preço   |
  :---: | :--------------------------: |
  <R$25,00  |  5%                      |
- >=R$25,00  | 8%                      |
+>=R$25,00  |  8%                      |
  
  
  O preço de custo, ou seja, preço mais imposto.
@@ -91,6 +91,6 @@ Venda média mensal |   Preço atual          | % de aumento | % de diminuição
  :------------------:      | :---------------: |
  <=R$50,00                 | Barato            |
  Entre R$50,00 e R$100,00  | Normal            |
- >=R$100,00                | Caro              |
+  >=R$100,00  | Caro            |
  
  
