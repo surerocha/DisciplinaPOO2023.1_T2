@@ -89,8 +89,8 @@ Venda média mensal |   Preço atual          | % de aumento | % de diminuição
  
   Novo preço                |   Classificação   |
  :------------------:      | :-----------------: |
- <=R$50,00                 | Barato            |
+ >=R$100,00               | Caro           |
  Entre R$50,00 e R$100,00  | Normal            |
- >=R$100,00                | Caro            |
+ <=R$50,00                | Barato           |
  
  
